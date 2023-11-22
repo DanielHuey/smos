@@ -1,2 +1,2 @@
 #!/bin/sh
-exec cargo $@ --target thumbv7em-none-eabihf
+cargo $@ --target x86_64-smos.json

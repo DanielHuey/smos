@@ -1,0 +1,3 @@
+{
+    "rust-analyzer.checkOnSave": false // removes "can't find crate for test" squiggles
+}
